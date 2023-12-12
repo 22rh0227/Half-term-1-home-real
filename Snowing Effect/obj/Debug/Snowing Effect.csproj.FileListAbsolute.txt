@@ -1,0 +1,7 @@
+C:\Users\presetup\OneDrive\Documents\Visual Studio 2022\Personal Projects\Snowing Effect\bin\Debug\Snowing Effect.exe.config
+C:\Users\presetup\OneDrive\Documents\Visual Studio 2022\Personal Projects\Snowing Effect\bin\Debug\Snowing Effect.exe
+C:\Users\presetup\OneDrive\Documents\Visual Studio 2022\Personal Projects\Snowing Effect\bin\Debug\Snowing Effect.pdb
+C:\Users\presetup\OneDrive\Documents\Visual Studio 2022\Personal Projects\Snowing Effect\obj\Debug\Snowing Effect.csproj.AssemblyReference.cache
+C:\Users\presetup\OneDrive\Documents\Visual Studio 2022\Personal Projects\Snowing Effect\obj\Debug\Snowing Effect.csproj.CoreCompileInputs.cache
+C:\Users\presetup\OneDrive\Documents\Visual Studio 2022\Personal Projects\Snowing Effect\obj\Debug\Snowing Effect.exe
+C:\Users\presetup\OneDrive\Documents\Visual Studio 2022\Personal Projects\Snowing Effect\obj\Debug\Snowing Effect.pdb
